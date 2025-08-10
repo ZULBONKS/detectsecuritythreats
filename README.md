@@ -118,7 +118,7 @@ Chinese (zh): 中文
 Português (Brazil) (pt_BR): Português (Brasil)
 
 •
-Japanese (ja): Japanese
+Japanese (ja): 日本語
 
 Notes
 

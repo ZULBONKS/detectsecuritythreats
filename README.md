@@ -1,4 +1,4 @@
-Security Threat Detection Script Documentation
+## Security Threat Detection Script Documentation
 
 Overview
 

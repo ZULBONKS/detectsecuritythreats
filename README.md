@@ -2,7 +2,7 @@ Security Threat Detection Script Documentation
 
 Overview
 
-This script is designed to detect signs of backdoors, eavesdropping, and man-in-the-middle (MITM) attacks on Linux systems (especially ZorinOS). It assesses the system's security status using standard tools and commands, such as chkrootkit, rkhunter, netstat, arp, and cat /etc/resolv.conf.
+This script is designed to detect signs of backdoors, eavesdropping, and man-in-the-middle (MITM) attacks on Linux systems. It assesses the system's security status using standard tools and commands, such as chkrootkit, rkhunter, netstat, arp, and cat /etc/resolv.conf.
 
 Features
 

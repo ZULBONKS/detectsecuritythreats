@@ -47,22 +47,6 @@ Display ABOUT Information: You can display information about the script and Bash
 5.
 After execution, a report file with the format security_threat_report_YYYYMMDD_HHMMSS.txt will be generated. This file contains all output displayed during the script's execution.
 
-Message Display Format
-
-The script displays messages in the following special format:
-
-Plain Text
-
----------- [Message in selected language] | [English] | [Chinese] | [Portuguese] ---------------
-
-Example:
-
-Plain Text
-
----------- Starting security threat detection script... | Starting security threat detection script... | 正在启动安全威胁检测書... | Iniciando script de detecção de ameaças de segurança... ---------------
-
-Potential Issues Detected
-
 •
 chkrootkit/rkhunter Warning: These tools may report false positives. If you receive a warning, investigate it further to determine whether it is legitimate or a known false positive.
 
